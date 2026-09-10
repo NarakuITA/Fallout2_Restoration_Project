@@ -3274,7 +3274,7 @@ msgstr ""
 "io, ma sono brave persone e pagano bene per qualsiasi cosa pre-guerra riesca "
 "a mettere le mani. Ma comunque,\n"
 "per quanto riguarda qualcosa di speciale... hmm, [Lancia un'occhiata a "
-"Marcus.] È strano che tu lo chieda, potrei proprio avere qualcosa che\n"
+"Marcus.] E' strano che tu lo chieda, potrei proprio avere qualcosa che\n"
 "interesserebbe al tuo amico qui."
 
 #: dialog/abbill.msg:212
@@ -4910,7 +4910,7 @@ msgid ""
 "breathing... Maybe you can find out what happened to\n"
 " Brother Thomas?"
 msgstr ""
-"È un po' imbarazzante, ma dopo aver trascorso cosi' tanto tempo all'aperto "
+"E' un po' imbarazzante, ma dopo aver trascorso cosi' tanto tempo all'aperto "
 "con le carovane, mi innervosisco molto quando\n"
 "vado sottoterra. Le pareti mi si chiudono addosso e ho difficolta' a "
 "respirare... Forse puoi scoprire cosa e' successo a\n"
@@ -32517,7 +32517,7 @@ msgstr "Adoro questo nuovo posto. Mom e' davvero una grande donna!"
 
 #: dialog/dclilbby.msg:125
 msgid "I'm so excited! Time to pack my stuff."
-msgstr "Sono cosi' emozionato! È ora di preparare le mie cose."
+msgstr "Sono cosi' emozionato! E' ora di preparare le mie cose."
 
 #: dialog/dclilbby.msg:126
 msgid "I wonder if dad will notice I am gone."
@@ -34891,7 +34891,7 @@ msgstr ""
 
 #: dialog/dcmom.msg:805
 msgid "That's too bad. Well, nice talking with you. Bye."
-msgstr "Peccato. È stato un piacere parlare con te. Ciao."
+msgstr "Peccato. E' stato un piacere parlare con te. Ciao."
 
 #: dialog/dcmom.msg:806
 msgid ""
@@ -35390,7 +35390,7 @@ msgstr ""
 
 #: dialog/dcpesnt2.msg:201
 msgid "It was my pleasure. How are the children?"
-msgstr "È stato un piacere. Come stanno i bambini?"
+msgstr "E' stato un piacere. Come stanno i bambini?"
 
 #: dialog/dcpesnt2.msg:202
 msgid ""
@@ -66955,7 +66955,7 @@ msgstr "Eccellente. E il dottor Wong?"
 
 #: dialog/fcdrshng.msg:561
 msgid "He is still alive. I'll return once he's out of the picture."
-msgstr "È ancora vivo. Tornero' quando non sara' piu' un problema."
+msgstr "E' ancora vivo. Tornero' quando non sara' piu' un problema."
 
 #: dialog/fcdrshng.msg:562
 msgid ""
@@ -67479,7 +67479,7 @@ msgstr ""
 
 #: dialog/fcdrwong.msg:208 dialog/vibaron.msg:311 dialog/vibaron.msg:331
 msgid "Pleasure doing business with you. Bye."
-msgstr "È stato un piacere fare affari con te. Addio."
+msgstr "E' stato un piacere fare affari con te. Addio."
 
 #: dialog/fcdrwong.msg:210
 msgid "Let's dance!"
@@ -67989,7 +67989,7 @@ msgstr ""
 
 #: dialog/fcdrwong.msg:531
 msgid "I agree. He's quite the madman."
-msgstr "Sono d'accordo. È completamente fuori di testa."
+msgstr "Sono d'accordo. E' completamente fuori di testa."
 
 #: dialog/fcdrwong.msg:540
 msgid "*clutches heart* Wahh."
@@ -70600,7 +70600,7 @@ msgid ""
 "argue with those who would say otherwise."
 msgstr ""
 "Sto accusando qualcuno? Chiunque abbia fatto un minimo di ricerche sa che le "
-"fondamenta di Shi?town sono i resti di questo sottomarino. È inutile "
+"fondamenta di Shi?town sono i resti di questo sottomarino. E' inutile "
 "discutere con chi sostiene il contrario."
 
 #: dialog/fckenlee.msg:179
@@ -71245,11 +71245,11 @@ msgstr "Ecco. Ma spero davvero che le informazioni valgano il prezzo."
 
 #: dialog/fclaocho.msg:262
 msgid "$1500 and that's my final offer."
-msgstr "1500$. È la mia ultima offerta."
+msgstr "1500$. E' la mia ultima offerta."
 
 #: dialog/fclaocho.msg:263
 msgid "I don't think so. That's too much."
-msgstr "Non credo proprio. È troppo."
+msgstr "Non credo proprio. E' troppo."
 
 #: dialog/fclaocho.msg:270
 msgid ""
@@ -71439,7 +71439,7 @@ msgstr ""
 
 #: dialog/fclaocho.msg:411
 msgid "That's karma for you."
-msgstr "È il karma, sai com’e'."
+msgstr "E' il karma, sai com’e'."
 
 #: dialog/fclaocho.msg:420
 msgid ""
@@ -74193,7 +74193,7 @@ msgid ""
 "that ain't gonna help you any against that old Chinese sub, so you best hope "
 "that thing's as dead as she looks."
 msgstr ""
-"Questa nave e' una petroliera Poseidon. È equipaggiata con tecnologia "
+"Questa nave e' una petroliera Poseidon. E' equipaggiata con tecnologia "
 "sopravvissuta alla guerra. Serve un FOB per accedere alla sala del computer "
 "di navigazione, ed e' dotata di un trasponder IFF che la protegge dalle armi "
 "Poseidon. Naturalmente, non ti aiutera' contro quel vecchio sottomarino "
@@ -79561,11 +79561,11 @@ msgstr ""
 
 #: dialog/gcenc2.msg:112
 msgid "No. I don't believe you. This is our man, boys!"
-msgstr "No. Non ti credo. È lui, ragazzi!"
+msgstr "No. Non ti credo. E' lui, ragazzi!"
 
 #: dialog/gcenc2.msg:113
 msgid "No. I don't believe you. This is our woman, boys!"
-msgstr "No. Non ti credo. È lei, ragazzi!"
+msgstr "No. Non ti credo. E' lei, ragazzi!"
 
 #: dialog/gcenc2.msg:114
 msgid ""
@@ -89016,7 +89016,7 @@ msgid ""
 msgstr ""
 "Con campanellini d’argento e conchigliette e… Ragazzo, sei proprio stupido, "
 "vero? Radiazioni pesanti. \n"
-"È cosi' che succede. Come pensavi? \n"
+"E' cosi' che succede. Come pensavi? \n"
 "Sai, quando tante bombe fanno boom, lampo di luce e calore, la carne ti "
 "brucia via… ma non muori del tutto, quel tipo di radiazioni pesanti?"
 
@@ -91108,7 +91108,7 @@ msgid ""
 "Everything's shut down except for the ENCLAVE Vault-Research Control. I "
 "wonder what that is?"
 msgstr ""
-"È tutto spento, tranne il Controllo Ricerca dei Vault dell’ENCLAVE. Chissa' "
+"E' tutto spento, tranne il Controllo Ricerca dei Vault dell’ENCLAVE. Chissa' "
 "che cos’e'..."
 
 #: dialog/gsterm.msg:363
@@ -95305,7 +95305,7 @@ msgid ""
 "Thanks ever so much for your compassion. That's sarcasm, by the way, in case "
 "you hadn't noticed. Get the hell out of my house."
 msgstr ""
-"Grazie mille per la tua compassione. È sarcasmo, nel caso non l’avessi "
+"Grazie mille per la tua compassione. E' sarcasmo, nel caso non l’avessi "
 "capito. Adesso levati da casa mia."
 
 #: dialog/hceric.msg:151
@@ -97252,7 +97252,7 @@ msgid ""
 "In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He is "
 "inside that building over there."
 msgstr ""
-"In tal caso, devi parlare con Bill, il Fornitore di Broken Hills. È dentro "
+"In tal caso, devi parlare con Bill, il Fornitore di Broken Hills. E' dentro "
 "quell’edificio laggiu'."
 
 #: dialog/hchench.msg:206 dialog/hcoutfit.msg:159 dialog/hcoutfit.msg:163
@@ -97265,7 +97265,7 @@ msgid ""
 "In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He's "
 "the one wearing a hat, right over there."
 msgstr ""
-"In tal caso, devi parlare con Bill, il Fornitore di Broken Hills. È quello "
+"In tal caso, devi parlare con Bill, il Fornitore di Broken Hills. E' quello "
 "con il cappello, proprio laggiu'."
 
 #: dialog/hchuswif.msg:100
@@ -103691,7 +103691,7 @@ msgstr "Vedi un uomo vestito con una tunica."
 
 #: dialog/hcstldr.msg:101
 msgid "You see Ashton. He is in charge here."
-msgstr "Vedi Ashton. È lui il responsabile qui."
+msgstr "Vedi Ashton. E' lui il responsabile qui."
 
 #: dialog/hcstldr.msg:102
 msgid "He has a smirk on his face."
@@ -105764,11 +105764,11 @@ msgstr "Vedi una grande cassaforte da pavimento in metallo."
 
 #: dialog/hisafe.msg:101
 msgid "This is a very sturdy safe. It is locked."
-msgstr "È una cassaforte molto robusta. È chiusa a chiave."
+msgstr "E' una cassaforte molto robusta. E' chiusa a chiave."
 
 #: dialog/hisafe.msg:102
 msgid "This is a very sturdy safe. It is unlocked."
-msgstr "È una cassaforte molto robusta. È aperta."
+msgstr "E' una cassaforte molto robusta. E' aperta."
 
 #: dialog/hisafe.msg:170
 msgid "You deftly pick the lock on the safe."
@@ -108513,7 +108513,7 @@ msgstr ""
 
 #: dialog/kcardin.msg:402
 msgid "He's dead. He was eaten by geckos."
-msgstr "È morto. È stato mangiato dai gecko."
+msgstr "E' morto. E' stato mangiato dai gecko."
 
 #: dialog/kcardin.msg:403
 msgid ""
@@ -110385,7 +110385,7 @@ msgstr "Non credo che abbiamo qualcosa da dirti. Cosa diavolo vuoi?"
 
 #: dialog/kcdunton.msg:132
 msgid "So, what's the little wimp want from us, anyway?"
-msgstr "Vabbe'... cosa puÃ² mai volere da noi una mammoletta come te?"
+msgstr "Vabbe'... cosa puo' mai volere da noi una mammoletta come te?"
 
 #: dialog/kcdunton.msg:133
 msgid ""
@@ -116238,7 +116238,7 @@ msgid ""
 " to come see him. We go, he ain't there."
 msgstr ""
 "Vic il traditore, tu dire. Viene a villaggio, dice che sa di schiavisti, "
-"dice di andare a trovarlo. Noi andati, lui non c'Ã¨."
+"dice di andare a trovarlo. Noi andati, lui non c'e'."
 
 #: dialog/kcsulik.msg:221
 msgid "Your sister was taken by slavers?"
@@ -131131,7 +131131,7 @@ msgstr ""
 
 #: dialog/ncbarten.msg:270
 msgid "Pleasure doin' business with ya."
-msgstr "È stato un piacere fare affari con te."
+msgstr "E' stato un piacere fare affari con te."
 
 #: dialog/ncbigjes.msg:100
 msgid "You see Big Jesus Mordino."
@@ -180912,7 +180912,7 @@ msgstr ""
 #: dialog/nhmyron.msg:1649
 msgid "All right then. I can see where this is going. Nevermind."
 msgstr ""
-"D'accordo. Posso giÃ  intuire dove questo discorso andra' a finire. Lasciamo "
+"D'accordo. Posso gia' intuire dove questo discorso andra' a finire. Lasciamo "
 "perdere."
 
 #: dialog/nhmyron.msg:1655
@@ -198518,7 +198518,7 @@ msgstr ""
 #: dialog/rcfannie.msg:159
 msgid "It'll be a loss to the profession to see you go, Fannie. Goodbye."
 msgstr ""
-"Quando te ne sarai andata, Fannie, il mondo avrÃ  perso una grande "
+"Quando te ne sarai andata, Fannie, il mondo avra' perso una grande "
 "professionista. Addio."
 
 #: dialog/rcfannie.msg:160
@@ -202252,14 +202252,14 @@ msgstr ""
 
 #: dialog/rclou.msg:230
 msgid "What the hell's this stuff?"
-msgstr "Cosa diavolo Ã¨ questa roba?"
+msgstr "Cosa diavolo e' questa roba?"
 
 #: dialog/rclou.msg:231
 msgid ""
 "It'll get the addiction out of her system. The next time she orders a drink, "
 "slip this into it."
 msgstr ""
-"Questa \"roba\" le ripulirÃ  l'organismo da quella merda. La prossima volta "
+"Questa \"roba\" le ripulira' l'organismo da quella merda. La prossima volta "
 "che ordina qualcosa da bere, allunga il suo drink con questo."
 
 #: dialog/rclou.msg:232
@@ -209218,7 +209218,7 @@ msgstr "Vedi un uomo vestito con abiti da lavoro."
 
 #: dialog/scdrvpay.msg:101
 msgid "It's brahmin buyer. He is expecting Hal's caravan."
-msgstr "È un compratore di brahmin. Sta aspettando la carovana di Hal."
+msgstr "E' un compratore di brahmin. Sta aspettando la carovana di Hal."
 
 #: dialog/scdrvpay.msg:102
 msgid "He's smells of brahmin."
@@ -210263,7 +210263,7 @@ msgstr ""
 
 #: dialog/scelise.msg:228
 msgid "My pleasure. Goodbye."
-msgstr "È stato un piacere. Addio."
+msgstr "E' stato un piacere. Addio."
 
 #: dialog/scelise.msg:229
 msgid "Are you ready to attack the slaver camp?"
@@ -214710,7 +214710,7 @@ msgstr "Ho sentito cosa e' successo a Metzger. Ottimo lavoro!"
 
 #: dialog/scrangr.msg:300
 msgid "It's a slaver, attack!"
-msgstr "È uno schiavista! All’attacco!"
+msgstr "E' uno schiavista! All’attacco!"
 
 #: dialog/scrangr.msg:301
 msgid "Shit, we are under attack!"
@@ -217796,7 +217796,7 @@ msgstr "Forse dovrei disattivare questa cosa prima di andarmene."
 
 #: dialog/sfmboat.msg:220
 msgid "It's too risky to use that again."
-msgstr "È troppo rischioso usarlo di nuovo."
+msgstr "E' troppo rischioso usarlo di nuovo."
 
 #: dialog/sfmboat.msg:221
 msgid "I wouldn't know where to go."
@@ -219327,7 +219327,7 @@ msgstr "Questa schiavista ha un’aria davvero feroce."
 
 #: dialog/slvcc2.msg:202
 msgid "Shit, Rangers! Time to kick ass."
-msgstr "Merda, i Ranger! È ora di spaccare tutto."
+msgstr "Merda, i Ranger! E' ora di spaccare tutto."
 
 #: dialog/slvcc2.msg:300 dialog/slvcc5.msg:300
 msgid "You lost or something?"
@@ -219500,7 +219500,7 @@ msgstr "*tosse*"
 
 #: dialog/slvcc5.msg:202
 msgid "Shit, Rangers! Time to die!"
-msgstr "Merda, i Ranger! È ora di morire!"
+msgstr "Merda, i Ranger! E' ora di morire!"
 
 #: dialog/slvcc5.msg:500
 msgid "Hey you! What do you think you're doing? I ain't seen you before."
@@ -219551,7 +219551,7 @@ msgstr "E' malato. Brutta influenza."
 
 #: dialog/slvcc5.msg:508
 msgid "He was killed during a slave run."
-msgstr "È stato ucciso durante una spedizione di schiavi."
+msgstr "E' stato ucciso durante una spedizione di schiavi."
 
 #: dialog/slvcc5.msg:509
 msgid ""
@@ -220537,7 +220537,7 @@ msgstr ""
 
 #: dialog/tribec1.msg:443 dialog/tribec1.msg:453
 msgid "My pleasure."
-msgstr "È stato un piacere."
+msgstr "E' stato un piacere."
 
 #: dialog/tribec1.msg:450
 msgid ""
@@ -221278,7 +221278,7 @@ msgstr ""
 
 #: dialog/tribec12.msg:112
 msgid "That's all I need to know. Bye."
-msgstr "È tutto cio' che mi serviva sapere. Addio."
+msgstr "E' tutto cio' che mi serviva sapere. Addio."
 
 #: dialog/tribec12.msg:120
 msgid ""
@@ -221611,7 +221611,7 @@ msgstr "Che i tuoi antenati ti guidino bene."
 
 #: dialog/tribec2.msg:202
 msgid "Nice to be seeing you again."
-msgstr "È un piacere rivederti."
+msgstr "E' un piacere rivederti."
 
 #: dialog/tribec2.msg:210
 msgid "You won't take us alive, slaver!"
@@ -222308,11 +222308,11 @@ msgstr ""
 
 #: dialog/tribec5.msg:141
 msgid "Thank you, Nessa. That's all I needed to hear."
-msgstr "Grazie, Nessa. È tutto cio' che avevo bisogno di sapere."
+msgstr "Grazie, Nessa. E' tutto cio' che avevo bisogno di sapere."
 
 #: dialog/tribec5.msg:150
 msgid "It's so lonely in the dark... So very lonely."
-msgstr "È cosi' solitario nel buio… cosi' terribilmente solitari."
+msgstr "E' cosi' solitario nel buio… cosi' terribilmente solitari."
 
 #: dialog/tribec5.msg:160
 msgid "The blood, it never stops flowing... why won't this pain end?"
@@ -222593,7 +222593,7 @@ msgstr "Hai avuto fortuna, amico? Per favore, fai presto."
 
 #: dialog/tribec7.msg:216
 msgid "I got the keys. Time to get you out of here."
-msgstr "Ho le chiavi. È ora di tirarti fuori di qui."
+msgstr "Ho le chiavi. E' ora di tirarti fuori di qui."
 
 #: dialog/tribec7.msg:217
 msgid ""
@@ -222935,7 +222935,7 @@ msgstr "Chi tu?"
 
 #: dialog/tribec7.msg:960
 msgid "It safe. We go home."
-msgstr "È sicuro. Noi va casa."
+msgstr "E' sicuro. Noi va casa."
 
 #: dialog/tribec7.msg:961
 msgid "It no safe. More bad men to kill."
@@ -223359,7 +223359,7 @@ msgstr "Curi la gamba di Serin."
 #: dialog/tribec9.msg:700
 msgid "He needs more help than I can offer. I better get going."
 msgstr ""
-"Ha bisogno di piu' aiuto di quanto io possa offrirgli. È meglio che vada."
+"Ha bisogno di piu' aiuto di quanto io possa offrirgli. E' meglio che vada."
 
 #: dialog/tribec9.msg:1000
 msgid "Good to be peeping you, hero."
@@ -223391,7 +223391,7 @@ msgstr "Ha la corda, ma manca il secchio."
 
 #: dialog/tribei1.msg:201
 msgid "It's just a well."
-msgstr "È solo un pozzo."
+msgstr "E' solo un pozzo."
 
 #: dialog/tribei1.msg:202
 msgid ""
@@ -223535,7 +223535,7 @@ msgstr "Bene. Iniziamo."
 
 #: dialog/tribemer.msg:210
 msgid "A true pleasure to meetcha, "
-msgstr "È un vero piacere conoscerti, "
+msgstr "E' un vero piacere conoscerti, "
 
 #: dialog/tribemer.msg:211
 msgid ""
@@ -238481,7 +238481,7 @@ msgid ""
 "Here you go. Drink up. It's about the only fun you'll see in this\n"
 " tight-ass place."
 msgstr ""
-"Tieni. Bevi. È praticamente l’unico divertimento che vedrai in questo posto "
+"Tieni. Bevi. E' praticamente l’unico divertimento che vedrai in questo posto "
 "di rigidi."
 
 #: dialog/vcmacrae.msg:127
@@ -248159,7 +248159,7 @@ msgstr ""
 
 #: dialog/vibaron.msg:261 dialog/vibaron.msg:281
 msgid "Alright. I see it's useless to reason with you. Bye."
-msgstr "D’accordo. È inutile ragionare con te. Addio."
+msgstr "D’accordo. E' inutile ragionare con te. Addio."
 
 #: dialog/vibaron.msg:263
 msgid ""
@@ -249298,7 +249298,7 @@ msgstr ""
 
 #: dialog/vilann.msg:331
 msgid "It's the least I could do. Take care."
-msgstr "È il minimo che potessi fare. Stammi bene."
+msgstr "E' il minimo che potessi fare. Stammi bene."
 
 #: dialog/vilann.msg:332
 msgid "You think I do all this for free? Let's talk money."
@@ -255265,7 +255265,7 @@ msgstr "...dev'essere cosi' che si sente Hakunin nel suo giardino."
 
 #: dialog/zismoke.msg:215
 msgid "That was crazy. I feel better now though."
-msgstr "È stato folle. Pero' ora mi sento meglio."
+msgstr "E' stato folle. Pero' ora mi sento meglio."
 
 #: dialog/zismoke.msg:216
 msgid "Oh shit..."
@@ -279251,7 +279251,7 @@ msgid ""
 "computer interface plug. It's broken, however."
 msgstr ""
 "E' una specie di casco a cui sono collegati alcuni elettrodi. E' dotato di "
-"una presa standard che permette di connetterlo a un computer. Comunque Ã¨ "
+"una presa standard che permette di connetterlo a un computer. Comunque e' "
 "rotto."
 
 #: game/pro_item.msg:28000
@@ -287775,7 +287775,7 @@ msgstr ""
 
 #: game/pro_scen.msg:191101
 msgid "An open hibernation chamber. It is empty."
-msgstr "Una camera di ibernazione aperta. È vuota."
+msgstr "Una camera di ibernazione aperta. E' vuota."
 
 #: game/pro_scen.msg:191200
 msgid "A WattzMan 2000 electric chair"
@@ -288638,7 +288638,7 @@ msgstr "Vetro"
 
 #: game/pro_scen.msg:228101 game/pro_scen.msg:228201 game/pro_scen.msg:228301
 msgid "This glass is difficult to see through."
-msgstr "È difficile vedere attraverso questo vetro."
+msgstr "E' difficile vedere attraverso questo vetro."
 
 #: game/pro_scen.msg:228401 game/pro_scen.msg:228501 game/pro_scen.msg:228601
 msgid "This glass is barely transparent."
@@ -299163,7 +299163,7 @@ msgstr "Tu essere prossima!"
 #~ "caravan jobs. It's really unfair."
 #~ msgstr ""
 #~ "Non mi va molto a genio. Ho come l'impressione che la sua paga sia sempre un "
-#~ "po' piÃ¹ alta della mia. Non Ã¨ giusto."
+#~ "po' piu' alta della mia. Non e' giusto."
 
 #~ msgid ""
 #~ "(Lowers his voice and looks around) That's gotta be it. I once saw myself "
@@ -299178,7 +299178,7 @@ msgstr "Tu essere prossima!"
 #~ "Are you duff? If I go to tell it, a lot of people in this town won't even "
 #~ "look at me. Besides I might get some kind of revenge."
 #~ msgstr ""
-#~ "Ma sei scemo? Se facessi la spia, un sacco di gente qui in cittÃ  non mi "
+#~ "Ma sei scemo? Se facessi la spia, un sacco di gente qui in citta'  non mi "
 #~ "guarderebbe piu' in faccia. E poi posso sempre trovare un modo per "
 #~ "vendicarmi."
 
